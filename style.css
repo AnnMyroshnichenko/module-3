@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+}
+.navbar {
+  background: rgb(42, 127, 155);
+}
+
+#company-name {
+  font-size: 1.9em;
+  text-shadow: 1px 1px 1px rgb(56, 55, 55);
+}
+
+button.navbar-toggler {
+  border: 3px solid rgb(174, 181, 245);
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgb(174, 181, 245)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+
+  color: rgb(174, 181, 245);
+}
+
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:hover {
+  background-color: #fce29e;
+}
+
+.nav-item:hover {
+  background-color: rgb(174, 181, 245);
+  color: wheat;
+  margin: 2px;
+  border-radius: 7px;
+}
+
+.nav-item a {
+  font-size: 1.2em;
+  text-shadow: 1px 1px 1px rgb(56, 55, 55);
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+#menu-header {
+  margin: 25px;
+  font-size: 3em;
+}
+
+section {
+  border: 1px solid black;
+  padding: 7px;
+  margin: 15px;
+  padding: 15px 10px;
+  background-color: rgb(174, 181, 245);
+}
+
+section p {
+  padding: 15px;
+}
+
+#back-to-top {
+  font-size: 1.4em;
+  color: black;
+  font-weight: 400;
+  text-decoration: none;
+}
