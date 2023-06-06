@@ -38,7 +38,7 @@ button.navbar-toggler {
 }
 
 body {
-  background-color: antiquewhite;
+  background-color: rgb(250, 242, 231);
 }
 
 #menu-header {
@@ -58,8 +58,8 @@ section p {
   padding: 15px;
 }
 
-#back-to-top {
-  font-size: 1.4em;
+section a {
+  font-size: 1.2em;
   color: black;
   font-weight: 400;
   text-decoration: none;
