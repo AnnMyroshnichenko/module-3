@@ -6,8 +6,9 @@
 }
 
 #company-name {
-  font-size: 1.9em;
+  font-size: 2em;
   text-shadow: 1px 1px 1px rgb(56, 55, 55);
+  margin-left: 25px;
 }
 
 button.navbar-toggler {
